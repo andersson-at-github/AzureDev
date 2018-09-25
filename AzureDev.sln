@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AzureDev", "AzureDev\", "{D0591C08-8F1F-418B-8006-60AE809B03C6}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_63543"
+		Debug.AspNetCompiler.PhysicalPath = "AzureDev\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63543\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_63543"
+		Release.AspNetCompiler.PhysicalPath = "AzureDev\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63543\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "63543"
+		SlnRelativePath = "AzureDev\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0591C08-8F1F-418B-8006-60AE809B03C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0591C08-8F1F-418B-8006-60AE809B03C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40ED9D88-B953-4810-BBD5-47B715D28AAB}
+	EndGlobalSection
+EndGlobal
